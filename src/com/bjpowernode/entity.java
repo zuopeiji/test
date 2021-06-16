@@ -4,6 +4,7 @@ public class entity {
 
     private Integer id;
     private String name;
+    private Integer age;
 
     public entity() {
     }
